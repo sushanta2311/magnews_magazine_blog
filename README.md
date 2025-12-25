@@ -1,0 +1,2 @@
+# magnews_magazine_blog
+magnews_magazine_blog
